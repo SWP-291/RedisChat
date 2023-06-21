@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace RedisChat.Client
 {
-    public partial class Register : Form
+    public partial class HomeForm : Form
     {
-        public Register()
+        public HomeForm()
         {
             InitializeComponent();
         }

@@ -14,4 +14,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = RedisChat.Client
-build_property.ProjectDir = T:\LearnSpace\Git Manager\Redis Chat Winform App\App\RedisChat\RedisChat.Client\
+build_property.ProjectDir = D:\FreeCourseOnline\freecourse-webapi-net5\RedisChat\RedisChat\RedisChat.Client\

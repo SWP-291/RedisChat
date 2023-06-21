@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "rawkjuIGsskkN3OltY9Iiouttq3TGlSepGig5mmaCXCznxPmXK7f1NQmwM/PRs4nvKjDeV3LuBYRGAeoOuK1gQ==",
+  "dgSpecHash": "q9HkEsZUYZ7Ph++rj7CyIZ/7hHqokcfhcWjnkH/9/S4FFnZU5iagRy73EDBRGUs1+wjZV5th6MtNEepbnq42NA==",
   "success": true,
-  "projectFilePath": "T:\\LearnSpace\\Git Manager\\Redis Chat Winform App\\App\\RedisChat\\RedisChat.Server\\RedisChat.Server.csproj",
+  "projectFilePath": "D:\\FreeCourseOnline\\freecourse-webapi-net5\\RedisChat\\RedisChat\\RedisChat.Server\\RedisChat.Server.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Admin\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.8\\pipelines.sockets.unofficial.2.2.8.nupkg.sha512",
-    "C:\\Users\\Admin\\.nuget\\packages\\stackexchange.redis\\2.6.116\\stackexchange.redis.2.6.116.nupkg.sha512",
-    "C:\\Users\\Admin\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512"
+    "C:\\Users\\LENOVO\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.8\\pipelines.sockets.unofficial.2.2.8.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\stackexchange.redis\\2.6.116\\stackexchange.redis.2.6.116.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512"
   ],
   "logs": []
 }

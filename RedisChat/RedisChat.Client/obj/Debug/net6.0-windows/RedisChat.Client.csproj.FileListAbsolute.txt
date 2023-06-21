@@ -21,3 +21,28 @@ T:\LearnSpace\Git Manager\Redis Chat Winform App\App\RedisChat\RedisChat.Client\
 T:\LearnSpace\Git Manager\Redis Chat Winform App\App\RedisChat\RedisChat.Client\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
 T:\LearnSpace\Git Manager\Redis Chat Winform App\App\RedisChat\RedisChat.Client\obj\Debug\net6.0-windows\RedisChat.Client.csproj.CopyComplete
 T:\LearnSpace\Git Manager\Redis Chat Winform App\App\RedisChat\RedisChat.Client\obj\Debug\net6.0-windows\RedisChat.Client.Register.resources
+D:\FreeCourseOnline\freecourse-webapi-net5\RedisChat\RedisChat\RedisChat.Client\bin\Debug\net6.0-windows\RedisChat.Client.exe
+D:\FreeCourseOnline\freecourse-webapi-net5\RedisChat\RedisChat\RedisChat.Client\bin\Debug\net6.0-windows\RedisChat.Client.deps.json
+D:\FreeCourseOnline\freecourse-webapi-net5\RedisChat\RedisChat\RedisChat.Client\bin\Debug\net6.0-windows\RedisChat.Client.runtimeconfig.json
+D:\FreeCourseOnline\freecourse-webapi-net5\RedisChat\RedisChat\RedisChat.Client\bin\Debug\net6.0-windows\RedisChat.Client.dll
+D:\FreeCourseOnline\freecourse-webapi-net5\RedisChat\RedisChat\RedisChat.Client\bin\Debug\net6.0-windows\RedisChat.Client.pdb
+D:\FreeCourseOnline\freecourse-webapi-net5\RedisChat\RedisChat\RedisChat.Client\bin\Debug\net6.0-windows\Pipelines.Sockets.Unofficial.dll
+D:\FreeCourseOnline\freecourse-webapi-net5\RedisChat\RedisChat\RedisChat.Client\bin\Debug\net6.0-windows\StackExchange.Redis.dll
+D:\FreeCourseOnline\freecourse-webapi-net5\RedisChat\RedisChat\RedisChat.Client\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+D:\FreeCourseOnline\freecourse-webapi-net5\RedisChat\RedisChat\RedisChat.Client\obj\Debug\net6.0-windows\RedisChat.Client.csproj.AssemblyReference.cache
+D:\FreeCourseOnline\freecourse-webapi-net5\RedisChat\RedisChat\RedisChat.Client\obj\Debug\net6.0-windows\RedisChat.Client.LoginForm.resources
+D:\FreeCourseOnline\freecourse-webapi-net5\RedisChat\RedisChat\RedisChat.Client\obj\Debug\net6.0-windows\RedisChat.Client.Properties.Resources.resources
+D:\FreeCourseOnline\freecourse-webapi-net5\RedisChat\RedisChat\RedisChat.Client\obj\Debug\net6.0-windows\RedisChat.Client.csproj.GenerateResource.cache
+D:\FreeCourseOnline\freecourse-webapi-net5\RedisChat\RedisChat\RedisChat.Client\obj\Debug\net6.0-windows\RedisChat.Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\FreeCourseOnline\freecourse-webapi-net5\RedisChat\RedisChat\RedisChat.Client\obj\Debug\net6.0-windows\RedisChat.Client.AssemblyInfoInputs.cache
+D:\FreeCourseOnline\freecourse-webapi-net5\RedisChat\RedisChat\RedisChat.Client\obj\Debug\net6.0-windows\RedisChat.Client.AssemblyInfo.cs
+D:\FreeCourseOnline\freecourse-webapi-net5\RedisChat\RedisChat\RedisChat.Client\obj\Debug\net6.0-windows\RedisChat.Client.csproj.CoreCompileInputs.cache
+D:\FreeCourseOnline\freecourse-webapi-net5\RedisChat\RedisChat\RedisChat.Client\obj\Debug\net6.0-windows\RedisChat.Client.csproj.CopyComplete
+D:\FreeCourseOnline\freecourse-webapi-net5\RedisChat\RedisChat\RedisChat.Client\obj\Debug\net6.0-windows\RedisChat.Client.dll
+D:\FreeCourseOnline\freecourse-webapi-net5\RedisChat\RedisChat\RedisChat.Client\obj\Debug\net6.0-windows\refint\RedisChat.Client.dll
+D:\FreeCourseOnline\freecourse-webapi-net5\RedisChat\RedisChat\RedisChat.Client\obj\Debug\net6.0-windows\RedisChat.Client.pdb
+D:\FreeCourseOnline\freecourse-webapi-net5\RedisChat\RedisChat\RedisChat.Client\obj\Debug\net6.0-windows\RedisChat.Client.genruntimeconfig.cache
+D:\FreeCourseOnline\freecourse-webapi-net5\RedisChat\RedisChat\RedisChat.Client\obj\Debug\net6.0-windows\ref\RedisChat.Client.dll
+D:\FreeCourseOnline\freecourse-webapi-net5\RedisChat\RedisChat\RedisChat.Client\obj\Debug\net6.0-windows\RedisChat.Client..Designer.resources
+D:\FreeCourseOnline\freecourse-webapi-net5\RedisChat\RedisChat\RedisChat.Client\obj\Debug\net6.0-windows\RedisChat.Client..resources
+D:\FreeCourseOnline\freecourse-webapi-net5\RedisChat\RedisChat\RedisChat.Client\obj\Debug\net6.0-windows\RedisChat.Client.HomeForm.resources

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "T:\\LearnSpace\\Git Manager\\Redis Chat Winform App\\App\\RedisChat\\RedisChat.Server\\RedisChat.Server.csproj": {}
+    "D:\\FreeCourseOnline\\freecourse-webapi-net5\\RedisChat\\RedisChat\\RedisChat.Server\\RedisChat.Server.csproj": {}
   },
   "projects": {
-    "T:\\LearnSpace\\Git Manager\\Redis Chat Winform App\\App\\RedisChat\\RedisChat.Server\\RedisChat.Server.csproj": {
+    "D:\\FreeCourseOnline\\freecourse-webapi-net5\\RedisChat\\RedisChat\\RedisChat.Server\\RedisChat.Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "T:\\LearnSpace\\Git Manager\\Redis Chat Winform App\\App\\RedisChat\\RedisChat.Server\\RedisChat.Server.csproj",
+        "projectUniqueName": "D:\\FreeCourseOnline\\freecourse-webapi-net5\\RedisChat\\RedisChat\\RedisChat.Server\\RedisChat.Server.csproj",
         "projectName": "RedisChat.Server",
-        "projectPath": "T:\\LearnSpace\\Git Manager\\Redis Chat Winform App\\App\\RedisChat\\RedisChat.Server\\RedisChat.Server.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "T:\\LearnSpace\\Git Manager\\Redis Chat Winform App\\App\\RedisChat\\RedisChat.Server\\obj\\",
+        "projectPath": "D:\\FreeCourseOnline\\freecourse-webapi-net5\\RedisChat\\RedisChat\\RedisChat.Server\\RedisChat.Server.csproj",
+        "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
+        "outputPath": "D:\\FreeCourseOnline\\freecourse-webapi-net5\\RedisChat\\RedisChat\\RedisChat.Server\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

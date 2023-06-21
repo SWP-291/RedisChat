@@ -16,6 +16,29 @@ namespace RedisChat.Client
             this.Close();
         }
 
+        private void LoginForm_Load(object sender, EventArgs e)
+        {
+            btnLoginNav.PerformClick();
+        }
+        private void button1_Click(object sender, EventArgs e)
+        {
+            PanelLogin.BringToFront();
+            btnLoginNav.BackColor = Color.Blue;
+            btnRegisterNav.BackColor = Color.Silver;
+            btnLoginNav.ForeColor = Color.White;
+            btnRegisterNav.ForeColor = Color.Black;
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            PanelRegister.BringToFront();
+            btnRegisterNav.BackColor = Color.Blue;
+            btnRegisterNav.ForeColor = Color.White;
+            btnLoginNav.BackColor = Color.Silver;
+            btnLoginNav.ForeColor = Color.Black;
+
+        }
+
         private void btnRegister_Click(object sender, EventArgs e)
         {
 
@@ -23,7 +46,7 @@ namespace RedisChat.Client
 
         private void btnLogin_Click(object sender, EventArgs e)
         {
-            
+
         }
     }
 }
