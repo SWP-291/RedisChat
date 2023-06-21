@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "KdZtZyYYOJvDeQZn84CBkPqXvcbD2OoFXyQqFVUInk0gaAkKFzzegqxkcHKajHbta/raW2iul53cBZGhBf/WaA==",
+  "success": true,
+  "projectFilePath": "T:\\LearnSpace\\Git Manager\\Redis Chat Winform App\\App\\RedisChat\\RedisChat.Client\\RedisChat.Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.8\\pipelines.sockets.unofficial.2.2.8.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\stackexchange.redis\\2.6.116\\stackexchange.redis.2.6.116.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

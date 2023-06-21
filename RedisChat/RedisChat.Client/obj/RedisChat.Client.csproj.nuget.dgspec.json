@@ -1,0 +1,72 @@
+{
+  "format": 1,
+  "restore": {
+    "T:\\LearnSpace\\Git Manager\\Redis Chat Winform App\\App\\RedisChat\\RedisChat.Client\\RedisChat.Client.csproj": {}
+  },
+  "projects": {
+    "T:\\LearnSpace\\Git Manager\\Redis Chat Winform App\\App\\RedisChat\\RedisChat.Client\\RedisChat.Client.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "T:\\LearnSpace\\Git Manager\\Redis Chat Winform App\\App\\RedisChat\\RedisChat.Client\\RedisChat.Client.csproj",
+        "projectName": "RedisChat.Client",
+        "projectPath": "T:\\LearnSpace\\Git Manager\\Redis Chat Winform App\\App\\RedisChat\\RedisChat.Client\\RedisChat.Client.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "T:\\LearnSpace\\Git Manager\\Redis Chat Winform App\\App\\RedisChat\\RedisChat.Client\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "StackExchange.Redis": {
+              "target": "Package",
+              "version": "[2.6.116, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
