@@ -17,3 +17,22 @@ T:\LearnSpace\Git Manager\Redis Chat Winform App\App\RedisChat\RedisChat.Server\
 T:\LearnSpace\Git Manager\Redis Chat Winform App\App\RedisChat\RedisChat.Server\bin\Debug\net6.0\StackExchange.Redis.dll
 T:\LearnSpace\Git Manager\Redis Chat Winform App\App\RedisChat\RedisChat.Server\bin\Debug\net6.0\System.IO.Pipelines.dll
 T:\LearnSpace\Git Manager\Redis Chat Winform App\App\RedisChat\RedisChat.Server\obj\Debug\net6.0\RedisChat.Server.csproj.CopyComplete
+D:\FreeCourseOnline\freecourse-webapi-net5\RedisChat\RedisChat\RedisChat.Server\bin\Debug\net6.0\RedisChat.Server.exe
+D:\FreeCourseOnline\freecourse-webapi-net5\RedisChat\RedisChat\RedisChat.Server\bin\Debug\net6.0\RedisChat.Server.deps.json
+D:\FreeCourseOnline\freecourse-webapi-net5\RedisChat\RedisChat\RedisChat.Server\bin\Debug\net6.0\RedisChat.Server.runtimeconfig.json
+D:\FreeCourseOnline\freecourse-webapi-net5\RedisChat\RedisChat\RedisChat.Server\bin\Debug\net6.0\RedisChat.Server.dll
+D:\FreeCourseOnline\freecourse-webapi-net5\RedisChat\RedisChat\RedisChat.Server\bin\Debug\net6.0\RedisChat.Server.pdb
+D:\FreeCourseOnline\freecourse-webapi-net5\RedisChat\RedisChat\RedisChat.Server\bin\Debug\net6.0\Pipelines.Sockets.Unofficial.dll
+D:\FreeCourseOnline\freecourse-webapi-net5\RedisChat\RedisChat\RedisChat.Server\bin\Debug\net6.0\StackExchange.Redis.dll
+D:\FreeCourseOnline\freecourse-webapi-net5\RedisChat\RedisChat\RedisChat.Server\bin\Debug\net6.0\System.IO.Pipelines.dll
+D:\FreeCourseOnline\freecourse-webapi-net5\RedisChat\RedisChat\RedisChat.Server\obj\Debug\net6.0\RedisChat.Server.csproj.AssemblyReference.cache
+D:\FreeCourseOnline\freecourse-webapi-net5\RedisChat\RedisChat\RedisChat.Server\obj\Debug\net6.0\RedisChat.Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\FreeCourseOnline\freecourse-webapi-net5\RedisChat\RedisChat\RedisChat.Server\obj\Debug\net6.0\RedisChat.Server.AssemblyInfoInputs.cache
+D:\FreeCourseOnline\freecourse-webapi-net5\RedisChat\RedisChat\RedisChat.Server\obj\Debug\net6.0\RedisChat.Server.AssemblyInfo.cs
+D:\FreeCourseOnline\freecourse-webapi-net5\RedisChat\RedisChat\RedisChat.Server\obj\Debug\net6.0\RedisChat.Server.csproj.CoreCompileInputs.cache
+D:\FreeCourseOnline\freecourse-webapi-net5\RedisChat\RedisChat\RedisChat.Server\obj\Debug\net6.0\RedisChat.Server.csproj.CopyComplete
+D:\FreeCourseOnline\freecourse-webapi-net5\RedisChat\RedisChat\RedisChat.Server\obj\Debug\net6.0\RedisChat.Server.dll
+D:\FreeCourseOnline\freecourse-webapi-net5\RedisChat\RedisChat\RedisChat.Server\obj\Debug\net6.0\refint\RedisChat.Server.dll
+D:\FreeCourseOnline\freecourse-webapi-net5\RedisChat\RedisChat\RedisChat.Server\obj\Debug\net6.0\RedisChat.Server.pdb
+D:\FreeCourseOnline\freecourse-webapi-net5\RedisChat\RedisChat\RedisChat.Server\obj\Debug\net6.0\RedisChat.Server.genruntimeconfig.cache
+D:\FreeCourseOnline\freecourse-webapi-net5\RedisChat\RedisChat\RedisChat.Server\obj\Debug\net6.0\ref\RedisChat.Server.dll

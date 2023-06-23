@@ -10,19 +10,12 @@ using System.Windows.Forms;
 
 namespace RedisChat.Client
 {
-    public partial class HomeForm : Form
+    public partial class User : UserControl
     {
-        public HomeForm()
+        public User()
         {
             InitializeComponent();
         }
-
-
-        private void btnClose_Click(object sender, EventArgs e)
-        {
-            this.Close();
-        }
-
 
     }
 }

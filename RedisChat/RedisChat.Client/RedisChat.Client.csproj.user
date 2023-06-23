@@ -4,8 +4,17 @@
     <Compile Update="HomeForm.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="ListUser.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
     <Compile Update="LoginForm.cs">
       <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SendMessage.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="User.cs">
+      <SubType>UserControl</SubType>
     </Compile>
   </ItemGroup>
 </Project>

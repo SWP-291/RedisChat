@@ -46,7 +46,23 @@ namespace RedisChat.Client
 
         private void btnLogin_Click(object sender, EventArgs e)
         {
+            if (txtLoginUsername.Text == "" || txtLoginPassword.Text == "")
+            {
+                MessageBox.Show("Please input username and password");
+            }
+            if (txtLoginUsername.Text == "admin" && txtLoginPassword.Text == "12345")
+            {
+                //show form 2
+                HomeForm homeForm = new HomeForm();
+                homeForm.Show();
+                this.Hide();
 
+
+            }
+            else
+            {
+                MessageBox.Show("incorrect username or password");
+            }
         }
     }
 }

@@ -1,0 +1,75 @@
+﻿namespace RedisChat.Client
+{
+    partial class SendMessage
+    {
+        /// <summary> 
+        /// Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary> 
+        /// Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Component Designer generated code
+
+        /// <summary> 
+        /// Required method for Designer support - do not modify 
+        /// the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            pictureBox1 = new PictureBox();
+            label1 = new Label();
+            ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
+            SuspendLayout();
+            // 
+            // pictureBox1
+            // 
+            pictureBox1.Image = Properties.Resources.img12;
+            pictureBox1.Location = new Point(26, 17);
+            pictureBox1.Name = "pictureBox1";
+            pictureBox1.Size = new Size(52, 62);
+            pictureBox1.TabIndex = 1;
+            pictureBox1.TabStop = false;
+            // 
+            // label1
+            // 
+            label1.BackColor = Color.SlateGray;
+            label1.Font = new Font("Segoe UI", 10F, FontStyle.Bold, GraphicsUnit.Point);
+            label1.ForeColor = Color.White;
+            label1.Location = new Point(105, 33);
+            label1.Name = "label1";
+            label1.Size = new Size(390, 36);
+            label1.TabIndex = 2;
+            label1.Text = "label1";
+            label1.TextAlign = ContentAlignment.MiddleLeft;
+            // 
+            // SendMessage
+            // 
+            AutoScaleDimensions = new SizeF(8F, 20F);
+            AutoScaleMode = AutoScaleMode.Font;
+            BackColor = Color.FromArgb(26, 32, 47);
+            Controls.Add(label1);
+            Controls.Add(pictureBox1);
+            Name = "SendMessage";
+            Size = new Size(501, 90);
+            ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
+            ResumeLayout(false);
+        }
+
+        #endregion
+
+        private PictureBox pictureBox1;
+        private Label label1;
+    }
+}

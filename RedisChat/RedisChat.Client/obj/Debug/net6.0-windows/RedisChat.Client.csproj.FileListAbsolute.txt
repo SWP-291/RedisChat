@@ -46,3 +46,6 @@ D:\FreeCourseOnline\freecourse-webapi-net5\RedisChat\RedisChat\RedisChat.Client\
 D:\FreeCourseOnline\freecourse-webapi-net5\RedisChat\RedisChat\RedisChat.Client\obj\Debug\net6.0-windows\RedisChat.Client..Designer.resources
 D:\FreeCourseOnline\freecourse-webapi-net5\RedisChat\RedisChat\RedisChat.Client\obj\Debug\net6.0-windows\RedisChat.Client..resources
 D:\FreeCourseOnline\freecourse-webapi-net5\RedisChat\RedisChat\RedisChat.Client\obj\Debug\net6.0-windows\RedisChat.Client.HomeForm.resources
+D:\FreeCourseOnline\freecourse-webapi-net5\RedisChat\RedisChat\RedisChat.Client\obj\Debug\net6.0-windows\RedisChat.Client.ListUser.resources
+D:\FreeCourseOnline\freecourse-webapi-net5\RedisChat\RedisChat\RedisChat.Client\obj\Debug\net6.0-windows\RedisChat.Client.SendMessage.resources
+D:\FreeCourseOnline\freecourse-webapi-net5\RedisChat\RedisChat\RedisChat.Client\obj\Debug\net6.0-windows\RedisChat.Client.User.resources
